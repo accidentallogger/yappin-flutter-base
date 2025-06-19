@@ -8,7 +8,7 @@ class AddApparelScreen extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: const Text('Add New Apparel'),
-        backgroundColor: Colors.teal,
+        backgroundColor: Color(0xFFFFCC33),
       ),
       body: const Center(
         child: Text('Form to Add Apparel (image, category, type, color, etc.)'),

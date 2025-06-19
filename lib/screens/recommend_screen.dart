@@ -8,7 +8,7 @@ class RecommendScreen extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: const Text('Recommended Outfits'),
-        backgroundColor: Colors.teal,
+        backgroundColor: Color(0xFFF75A5A),
       ),
       body: const Center(
         child: Text('AI-based Outfit Suggestions will appear here.'),
